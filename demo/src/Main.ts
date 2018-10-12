@@ -1,0 +1,1 @@
+import { Scene } from "../../frostwork/build/frostwork.js";
